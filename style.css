@@ -1,0 +1,206 @@
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    margin: 0;
+    height: 100%;
+}
+section{
+    height: 600px;
+    width: 100%;
+}
+.top-banner{
+     background-image:url("images/IMG_20220624_163732.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: blur(5px); */
+}
+.help-them{
+    font-size: 80px;
+    /* margin-left:350px; */
+    text-align: center;
+    padding-top: 140px;
+    /* font-family: 'Poppins', sans-serif; */
+    color:black;
+    
+    
+}
+#poor-pepole{
+    color: black;
+    /* margin-left: 25%; */
+    text-align: center;
+    font-size: 25px;
+    margin-top: -50px;
+}
+.donate-now-frist{
+    position: absolute;
+    font-size: 30px; 
+    padding: 8px 20px;
+    background-color: brown;
+    margin-left: 42%;
+    border-radius: 10px;
+}
+h3 a{
+    text-decoration: none;
+    color: beige;
+}
+.donate-request{
+    margin-top: 100px;
+}
+.donate-now{
+    color: rgb(40, 133, 133);
+    margin-left: 35%;
+    font-size: 60px;
+}
+.lorem{
+    color: rgb(181, 28, 28);
+    text-align: center;
+    /* margin: -50px 00px; */
+    font-size: 25px;
+    margin-top: -40px;
+}
+li{
+    margin-top: 30px;
+    display: inline-block;
+    font-size: 40px;
+    padding: 30px;
+   color: rgb(147, 19, 19);
+   font-weight: 700;
+}
+.hundred-tk{
+    margin-left:25%;
+    color:black;
+    margin-left:px;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+.eight-hundred-tk{
+    color:aquamarine;
+    margin-left:px;
+    background:rgb(73, 195, 209);
+    border-radius: 10px;
+    border: 3px solid aqua;
+    margin-left: 10px;
+}
+.five-hundred-tk{
+    color:black;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+.ten-hundred-tk{
+    color:black;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+.other-amount{
+    color: gray;
+    text-align: center;
+    margin-top:100px;
+    font-size: 25px;
+    padding-bottom: 0px;
+}
+hr{
+    width: 50%;
+    margin-top: -10px;
+}
+.donate-now-second{
+    position: absolute;
+    font-size: 30px; 
+    padding: 8px 20px;
+    background-color: brown;
+    margin-left: 43.5%;
+    border-radius: 10px;
+    margin-top:1mm;
+}
+.donate-history{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 140px;
+    color:black;
+}
+.history-of-donate{
+    color: black;
+    /* margin-left: 25%; */
+    text-align: center;
+    font-size: 25px;
+    margin-top: -30px;
+}
+.donate-plan-part-by-part{
+    display: flex;
+    margin-left: 8%;
+    margin-top: -250px;
+}
+.cloth-history{
+    background-color: gray;
+    height: 400px;
+    width: 028%;
+    border-radius: 10px;
+    padding-left: 20px;
+    background: linear-gradient(0.25turn, #1b0de7, #67d612, #673807);
+}
+.image-of-cloth{
+    margin-top: 50px;
+}
+.medicine-history{
+    /* background-color: rgb(144, 222, 226); */
+    height: 400px;
+    width: 28%;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+.food-history{
+    /* background-color: gray; */
+    height: 400px;
+    width: 28%;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 20px;
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+.donation-update{
+    text-align: center;
+    font-size: 60px;
+    color: #000000;
+    margin-top: -100px;
+}
+.donation-update-blog{
+text-align: center;
+font-size: 20px;
+margin-top: -30px;
+}
+.message-box{
+    margin: 100px 200px 00px 20%;
+    height: 300px;
+    width: 60%;
+    background: linear-gradient(black,rgb(147, 230, 243),rgb(231, 33, 6),black);
+    border-radius: 5px;
+}
+input{
+    margin-left:20% ;
+    margin-top: 130px;
+    padding: 20px;
+}
+.Subscribe{
+    /* padding: 40px ; */
+    margin-left: 30%;
+    margin-top: -59px;
+    position: absolute;
+    font-size: 30px; 
+    padding: 12px 30px;
+    background-color: brown;
+    border-radius: 3px;
+}
+.footer{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.do-it{
+    text-align: center;
+    color: white;
+    margin-top: -000px;
+}

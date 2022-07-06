@@ -161,6 +161,26 @@ hr{
             linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
             linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
 }
+.my-ideas{
+    background-color: red;
+    height: 600px;
+    margin-bottom: 200px;
+    margin-top: -150px;
+    display: flex;
+    margin-left: 5%;
+}
+.sanetary-pad{
+    background-color: aqua;
+    width: 30%;
+}
+.improtant-of-sanetary-pad{
+    background-color: #673807;
+    width: 30%;
+}
+.improtant-of-baby-food{
+    background-color: #5bff0e;
+    width: 30%;
+}
 .donation-update{
     text-align: center;
     font-size: 60px;

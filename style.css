@@ -258,6 +258,10 @@ input{
     background-color: brown;
     border-radius: 3px;
 }
+.Subscribe a{
+    text-decoration: none;
+    color: beige;
+}
 footer{
     height: 200px;
     width: 100%;

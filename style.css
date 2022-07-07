@@ -41,14 +41,15 @@ h3 a{
 }
 .donate-request{
     margin-top: 100px;
+    width: 100%;
 }
 .donate-now{
     color: rgb(40, 133, 133);
     margin-left: 35%;
     font-size: 60px;
 }
-.lorem{
-    color: rgb(181, 28, 28);
+.need-your-help-for-the-flood-victims{
+    color: black;
     text-align: center;
     /* margin: -50px 00px; */
     font-size: 25px;
@@ -124,7 +125,8 @@ hr{
 }
 .donate-plan-part-by-part{
     display: flex;
-    margin-left: 8%;
+    width: 100%;
+    margin-left: 5%;
     margin-top: -250px;
 }
 .cloth-history{
@@ -159,27 +161,69 @@ hr{
             linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
 }
 .my-ideas{
-    background-color: red;
-    height: 600px;
+    height: 700px;
+    width: 100%;
     margin-bottom: 200px;
     margin-top: -150px;
     display: flex;
-    margin-left: 5%;
+    margin-left: 0%;
 }
 .sanetary-pad{
-    background-color: aqua;
+    background-color: gray;
     width: 30%;
+    padding-left: 10px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 8px solid aqua;
 }
 .improtant-thinds{
     font-size: 40px;
 }
-.improtant-of-sanetary-pad{
-    background-color: #673807;
-    width: 30%;
+.image-of-sanatry-pad{
+    border-radius: 250px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+}
+.distributed-these-sanitary-pads{
+    font-size: 20px;
+    margin-top: -30px;
+    text-align: center;
 }
 .improtant-of-baby-food{
-    background-color: #5bff0e;
+    background-color: #c5e8b5;
+    width: 30%; 
+    margin-left: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    border: 8px solid aqua;
+}
+.image-of-baby-food{
+    border-radius: 250px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+}
+.distributed-these-baby-food{
+    font-size: 20px;
+    margin-top: -30px;
+    text-align: center;
+}
+.improtant-of-animals-food{
+     background-color: gray;
     width: 30%;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+    border: 8px solid aqua;
+}
+.image-of-animals-food{
+    border-radius: 250px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+}
+.distributed-these-animals-food{
+    font-size: 20px;
+    margin-top: -30px;
+    text-align: center;
 }
 .donation-update{
     text-align: center;
@@ -219,7 +263,7 @@ footer{
     width: 100%;
     background-color: black;
     color:#ebf8e1;
-    margin-top: 2200px;
+    margin-top: 2300px;
     /* padding-left: 100px; */
     text-align: center;
 }
